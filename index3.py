@@ -1,1 +1,4 @@
-print('!!!have a nice day!!!')
+
+def function1():
+    print('!!!have a nice day!!!')
+function1()
