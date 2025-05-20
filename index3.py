@@ -1,4 +1,4 @@
 
 def function1():
-    print('!!!have a nice day!!!')
+    print('!!!obisravsia!!!')
 function1()
