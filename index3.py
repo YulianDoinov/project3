@@ -1,4 +1,4 @@
 
-def function1():
+def function3():
     print('!!!obisravsia!!! dedede???')
-function1()
+function3()
