@@ -1,4 +1,4 @@
 
 def function1():
-    print('!!!obisravsia!!!')
+    print('!!!obisravsia!!! dedede')
 function1()
